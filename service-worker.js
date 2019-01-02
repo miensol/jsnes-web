@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://miensol.pl/jsnes-web/precache-manifest.6605577b0d7c939006b93474be23df90.js"
+  "/jsnes-web/precache-manifest.12ed6f457eaa93a09b0179ca5512c873.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("https://miensol.pl/jsnes-web/index.html", {
+workbox.routing.registerNavigationRoute("/jsnes-web/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
