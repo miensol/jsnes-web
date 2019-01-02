@@ -1,13 +1,13 @@
 {
   "main.css": "https://miensol.pl/jsnes-web/static/css/main.c6b7ae6c.chunk.css",
-  "main.js": "https://miensol.pl/jsnes-web/static/js/main.d22a9c7a.chunk.js",
-  "main.js.map": "https://miensol.pl/jsnes-web/static/js/main.d22a9c7a.chunk.js.map",
+  "main.js": "https://miensol.pl/jsnes-web/static/js/main.a2dba57d.chunk.js",
+  "main.js.map": "https://miensol.pl/jsnes-web/static/js/main.a2dba57d.chunk.js.map",
   "static/js/1.3aa9ec14.chunk.js": "https://miensol.pl/jsnes-web/static/js/1.3aa9ec14.chunk.js",
   "static/js/1.3aa9ec14.chunk.js.map": "https://miensol.pl/jsnes-web/static/js/1.3aa9ec14.chunk.js.map",
   "runtime~main.js": "https://miensol.pl/jsnes-web/static/js/runtime~main.0e3e839b.js",
   "runtime~main.js.map": "https://miensol.pl/jsnes-web/static/js/runtime~main.0e3e839b.js.map",
   "static/css/main.c6b7ae6c.chunk.css.map": "https://miensol.pl/jsnes-web/static/css/main.c6b7ae6c.chunk.css.map",
   "index.html": "https://miensol.pl/jsnes-web/index.html",
-  "precache-manifest.2ac08b38c6df7ffafc26dcd5fd844fa0.js": "https://miensol.pl/jsnes-web/precache-manifest.2ac08b38c6df7ffafc26dcd5fd844fa0.js",
+  "precache-manifest.6605577b0d7c939006b93474be23df90.js": "https://miensol.pl/jsnes-web/precache-manifest.6605577b0d7c939006b93474be23df90.js",
   "service-worker.js": "https://miensol.pl/jsnes-web/service-worker.js"
 }

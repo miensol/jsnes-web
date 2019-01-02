@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://miensol.pl/jsnes-web/precache-manifest.2ac08b38c6df7ffafc26dcd5fd844fa0.js"
+  "https://miensol.pl/jsnes-web/precache-manifest.6605577b0d7c939006b93474be23df90.js"
 );
 
 workbox.clientsClaim();
